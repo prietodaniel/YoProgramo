@@ -8,11 +8,11 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ABML</groupId>
-	<artifactId>ABMLtest</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>ABML_JPA_H</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ABMLtest</name>
-	<description>Demo project for Spring Boot</description>
+	<name>ABML_JPA_H</name>
+	<description>ABML con SpringBoot + JPA + Hibernate</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

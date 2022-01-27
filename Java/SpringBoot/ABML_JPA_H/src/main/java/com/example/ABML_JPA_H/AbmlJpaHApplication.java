@@ -1,13 +1,13 @@
-package com.ABML.ABMLtest;
+package com.example.ABML_JPA_H;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AbmLtestApplication {
+public class AbmlJpaHApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AbmLtestApplication.class, args);
+		SpringApplication.run(AbmlJpaHApplication.class, args);
 	}
 
 }
